@@ -1,0 +1,35 @@
+
+img{
+    float:left;
+
+    width:50px;
+    height:50px;
+}
+h1{
+    color:#699BF7;
+}
+#check{
+    margin-top: 250px;
+}
+
+#measurement{
+    width:300px;
+    height: 50px;
+    margin-bottom: 10px;
+    background-color: #c9dcff;
+    border-radius: 15px;
+    border-style: none;
+    color :#699BF7;
+    font-size:25px;
+    font-weight: bold;
+}
+#average{
+    width:300px;
+    height:50px;
+    background-color: transparent;
+    border-radius: 15px;
+    border-style: none;
+    color :#91949c;
+    font-size:18px;
+    text-decoration: underline;
+}
